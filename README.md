@@ -1,6 +1,9 @@
 # Code Bot
 
 I have used a quantized model version of Mistral to run locally on CPU. You can download that from - https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q5_K_S.gguf
+
+Note:
+
 save the model in models folder and ensure you change the model path in main.py
 
 ## Installation & Setup:
