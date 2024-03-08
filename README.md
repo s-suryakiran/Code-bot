@@ -34,10 +34,6 @@ save the model in models folder and ensure you change the model path in main.py
    pip install -r requirements.txt
    ```
 
-5. **Setting up Environment Variables**:
-   - Rename the `.env_sample` file to `.env`.
-   - Open the newly named `.env` file in any text editor of your choice.
-   - Locate the placeholder for the OpenAI API key and replace it with your actual key.
 
 ## Usage:
 
