@@ -1,4 +1,4 @@
-models
+models/*
 .chainlit
 .files
 __pycache__
